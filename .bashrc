@@ -9,6 +9,7 @@ nonzero_return() {
 # Show git branch name
 force_color_prompt=yes
 color_prompt=yes
+
 parse_git_branch() {
   git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
 }
