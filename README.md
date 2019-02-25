@@ -3,7 +3,8 @@
 
 ---
 
-Add code to end of your ~/.bashrc (tested on Ubuntu) to get new custom terminal design:
+Add code from `.bashrc` to end of your `~/.bashrc` to get new custom terminal design:  
+*Tested on Ubuntu 16.04.*
 
 ![Terminal](terminal.png)
 
